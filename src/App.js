@@ -95,9 +95,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <button className="submit-btn">
-          Отправить результат
-        </button>
+         
       </footer>
     </div>
   );
